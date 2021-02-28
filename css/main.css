@@ -1935,7 +1935,7 @@ input::-moz-focus-inner {
   bottom: 0;
   left: 50%;
 }
-
+/*
 .intro-pic::before {
   content: "";
   position: absolute;
@@ -1946,7 +1946,7 @@ input::-moz-focus-inner {
   background-color: #000000;
   opacity: .2;
 }
-
+*/
 .intro-grid {
   background-image: url(../images/pattern-dot-grid.svg);
   background-size: 24px 24px;
